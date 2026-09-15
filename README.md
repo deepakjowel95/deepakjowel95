@@ -12,7 +12,7 @@ Interested in physical intelligence, data-efficient robot learning, physics-info
 ---
 
 ## Research Interests
-
+|                              |                            |                                |                             |
 |------------------------------|----------------------------|--------------------------------|-----------------------------|
 | 🤖 Robot Perception          | 🧠 Reinforcement Learning | 🗺️ SLAM & Autonomous Navigation | ⚛️ Physics-Informed Systems |
 | 🦾 Bio-Inspired Augmentation | 🎯 Trajectory Optimization | 🧍 Human-Robot Interaction |  🌐 Embodied AI                 |
