@@ -15,7 +15,7 @@ Interested in physical intelligence, data-efficient robot learning, physics-info
 |                              |                            |                                |                             |
 |------------------------------|----------------------------|--------------------------------|-----------------------------|
 | 🤖 Robot Perception          | 🧠 Reinforcement Learning | 🗺️ SLAM & Autonomous Navigation | ⚛️ Physics-Informed Systems |
-| 🦾 Bio-Inspired Augmentation | 🎯 Trajectory Optimization | 🧍 Human-Robot Interaction |  🌐 Embodied AI                 |
+| 🦾 Bio-Inspired Augmentation | 🎯 Trajectory Optimization | 🧍 Human-Robot Interaction     |  🌐 Embodied AI             |
 
 ---
 
