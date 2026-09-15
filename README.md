@@ -1,5 +1,5 @@
 # Deepak Jowel
-![Robotics Banner](./assets/robotics-banner.png)
+![Robotics Banner](./assets/robotics-banner.jpeg)
 
 ### Robotics & Autonomous Systems · Machine Learning · Intelligent Manipulation
 
