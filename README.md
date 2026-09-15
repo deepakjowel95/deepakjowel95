@@ -25,14 +25,14 @@ machine learning and physical interaction.
 
 ## Featured Projects
 
-| Project | Area |
-|---|---|
-| 🗺️ Semantic SLAM | Perception |
-| 🦾 Learning-Based Manipulation | Robot Learning |
-| 🐕 Quadruped Locomotion | Reinforcement Learning |
-| 🤖 ROS2 Autonomous Navigation | Robotics |
-| 🧍 Humanoid RL | Embodied AI |
-| 👁️ Vision-Language Robotics | Multimodal AI |
+| Project                      | What it demonstrates              |
+| ---------------------------- | --------------------------------- |
+| 🦾 Bio-Inspired Robotic Tail | MuJoCo · RL(PPO) · Dynamics       |
+| 🗺️ Autonomous LIMO          | ROS2 · LiDAR · SLAM                |
+| 🤖 Robot Learning            | DMP · SEDS · Trajectory Learning  |
+| 🐕 Quadruped RL              | MuJoCo · PPO · Locomotion         |
+| 👁️ Vision-Language          | CV · Transformers · Multimodal AI |
+| 🧍 Human Augmentation        | 3D reconstruction · Prosthetics   |
 
 ---
 
