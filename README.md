@@ -11,14 +11,6 @@ Interested in physical intelligence, data-efficient robot learning, physics-info
 
 ---
 
-## Research Interests
-|                              |                            |                                |                             |
-|------------------------------|----------------------------|--------------------------------|-----------------------------|
-| 🤖 Robot Perception          | 🧠 Reinforcement Learning | 🗺️ SLAM & Autonomous Navigation | ⚛️ Physics-Informed Systems |
-| 🦾 Bio-Inspired Augmentation | 🎯 Trajectory Optimization | 🧍 Human-Robot Interaction     |  🌐 Embodied AI             |
-
----
-
 ## Featured Projects
 
 | Project                      | What it demonstrates              |
@@ -45,6 +37,14 @@ Interested in physical intelligence, data-efficient robot learning, physics-info
 
 ### Perception
 `OpenCV` `SLAM` `VIO` `3D Vision`
+
+---
+
+## Research Interests
+|                              |                            |                                |                             |
+|------------------------------|----------------------------|--------------------------------|-----------------------------|
+| 🤖 Robot Perception          | 🧠 Reinforcement Learning | 🗺️ SLAM & Autonomous Navigation | ⚛️ Physics-Informed Systems |
+| 🦾 Bio-Inspired Augmentation | 🎯 Trajectory Optimization | 🧍 Human-Robot Interaction     |  🌐 Embodied AI             |
 
 ---
 
