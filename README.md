@@ -25,7 +25,7 @@ Interested in physical intelligence, data-efficient robot learning, physics-info
 | ---------------------------- | --------------------------------- |
 | 🦾 Bio-Inspired Robotic Tail | MuJoCo · RL(PPO) · Dynamics       |
 | 🗺️ Autonomous LIMO          | ROS2 · LiDAR · SLAM                |
-| 🤖 Robot Learning            | DMP · SEDS · Trajectory Learning  |
+| 🤖 Robot/Agent Learning   | DMP/SEDS · Game · Trajectory Learning  |
 | 🐕 Quadruped RL              | MuJoCo · PPO · Locomotion         |
 | 👁️ Vision-Language          | CV · Transformers · Multimodal AI |
 | 🧍 Human Augmentation        | 3D reconstruction · Prosthetics   |
